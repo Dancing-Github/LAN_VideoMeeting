@@ -1,0 +1,15 @@
+debug/decodethread.o
+debug/initialization_dialog.o
+debug/main.o
+debug/mainwindow.o
+debug/playaudio.o
+debug/playwidget.o
+debug/sender_videoandaudio.o
+debug/word_meeting.o
+debug/moc_decodethread.o
+debug/moc_initialization_dialog.o
+debug/moc_mainwindow.o
+debug/moc_playaudio.o
+debug/moc_playwidget.o
+debug/moc_sender_videoandaudio.o
+debug/moc_word_meeting.o

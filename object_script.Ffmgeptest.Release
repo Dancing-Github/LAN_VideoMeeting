@@ -1,0 +1,15 @@
+release/decodethread.o
+release/initialization_dialog.o
+release/main.o
+release/mainwindow.o
+release/playaudio.o
+release/playwidget.o
+release/sender_videoandaudio.o
+release/word_meeting.o
+release/moc_decodethread.o
+release/moc_initialization_dialog.o
+release/moc_mainwindow.o
+release/moc_playaudio.o
+release/moc_playwidget.o
+release/moc_sender_videoandaudio.o
+release/moc_word_meeting.o
